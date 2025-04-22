@@ -36,7 +36,7 @@
 - 📝 [この世の花ブログ：おすすめパッケージ②](https://konoyonohana.blog.fc2.com/blog-entry-593.html)  
 　より実践的な内容やTipsも書かれている。
 
-- 📝 [LaTeX で数学のレポート・論文を書く]((https://quruli.ivory.ne.jp/document/latex.html)
+- 📝 [LaTeX で数学のレポート・論文を書く](https://quruli.ivory.ne.jp/document/latex.html)
   amsartについて書かれている
 
 ---
